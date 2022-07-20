@@ -1,0 +1,1 @@
+this project has a login and registration function, a product catalog linked to Firebase.
